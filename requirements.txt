@@ -1,0 +1,12 @@
+# Hospital Patient System (CLI)
+# ---------------------------------------------
+# This project is built entirely with standard Python 3 libraries:
+# - sqlite3 (database engine)
+# - datetime (date and time validation)
+# - decimal (precise financial calculations)
+# - unittest (automated test suite)
+# - re (regular expression matching)
+# - pathlib / os / sys (system operations)
+#
+# No external pip dependencies are required.
+# Python 3.8+ is recommended.
