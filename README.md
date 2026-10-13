@@ -153,6 +153,11 @@ A few things we focused on while building this:
 - **Soft Deleting (Archive)**: In a hospital system, deleting patient records permanently can wipe out their medical history and past billing trails. Instead of `DELETE`, we change their status to `Archived`.
 - **Conflict Checking**: Before confirming an appointment, the system checks whether the patient or the department is already booked at that same date and time to prevent double-booking.
 
+## Developer Credits
+* **Developer:** Alfredo Jr. Z. Boa
+* **Year Level:** 2nd Year Student
+* **University:** Batangas State University - The National Engineering University (BatStateU - TNEU)
+
 ---
 
 ## Project Info
